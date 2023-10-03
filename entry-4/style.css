@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    font-size: 80px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position: flex;
+    justify-content: center;
+    color: black;
+    position: fixed;
+    z-index: 12;
+}
+div.background{
+    background-color: white;
+    background-image: url(images/woodtexture.jpg);
+    color: white;
+    width: 90vw;
+    height: 5600px;
+    z-index: 1;
+}
+div.envelope{
+    display: flex;
+    justify-content: center;
+    transform: rotate(180deg);
+    position: fixed;
+    z-index: 2;
+    top: -180px;
+    left: 250px;
+
+}
+div.envelope-top{
+    display: flex;
+    justify-content: center;
+    transform: rotate(180deg);
+    position: fixed;
+    z-index: 10;
+    top: -180px;
+    left: 250px;
+}
+div.letter{
+    padding: 250px;
+    padding-top: 300px;
+    position: sticky;
+    top: -450px;
+    z-index: 5;
+}

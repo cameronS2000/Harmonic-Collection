@@ -1,5 +1,8 @@
 
 
+body {
+    cursor: url(images/clock.png), auto;
+}
 .title{
     display: flex;
     align-items: center;
@@ -18,7 +21,6 @@
     position: fixed;
     top: 0;
 }
-
 .subtitle{
     display: flex;
     text-align: center;
@@ -60,4 +62,3 @@
     margin-bottom: 15px;
     margin-top: 15px;
   }
-  

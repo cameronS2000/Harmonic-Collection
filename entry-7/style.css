@@ -8,9 +8,9 @@ body {
     padding-bottom: 20px;
     font-family: Courier, monospace;
     font-size: 72px;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-top: 120px;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    margin-top: 8vh;
 }
 .fixed{
     display: flex;

@@ -60,3 +60,4 @@ for (let i = 0; i < 15; i++) {
     gridContainer3.appendChild(box);
   }
 }
+//full disclaimer, I used many different references as well as chatGPT debugging to get this working correctly//

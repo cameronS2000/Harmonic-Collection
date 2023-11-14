@@ -1,0 +1,37 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.center-container, .image-row {
+    text-align: center;
+}
+
+.image-row img {
+    margin: 10px;
+}
+.record{
+    max-width: 180px;
+    height: 180px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 72px;
+    text-align: center;
+    padding-top: 250px;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+}

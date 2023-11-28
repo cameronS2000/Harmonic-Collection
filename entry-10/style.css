@@ -4,6 +4,7 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0;
+    transition: background-color 0.25s ease-in-out;
 }
 h1{
     font-family: 'Courier New', Courier, monospace;

@@ -8,8 +8,8 @@ body{
     justify-content: center;
 }
 h1{
-    font-size: 80px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 72px;
+    font-family: 'Courier New', Courier, monospace;
     position: flex;
     justify-content: center;
     color: black;

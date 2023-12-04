@@ -50,12 +50,12 @@ body {
     cursor: pointer;
 }
 
-div.text{
+.text{
     position: relative;
     bottom: 800px;
-    left: 60px;
+    left: 50px;
     max-width: 350px;
-    font-size: 24px;
+    font-size: 20px;
     font-family: Courier, monospace;
 }
 
